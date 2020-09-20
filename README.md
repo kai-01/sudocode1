@@ -9,7 +9,7 @@ here's some other stuff you can learn about me!
 - ⚡ fun fact: uhhhhhhhhhhhhhhhhhhhhhh
 ---
 
-![sudocode1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudocode1&show_icons=true&theme=vue&hide_border=false)
+![roux's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudocode1&show_icons=true&theme=vue&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocode1&layout=compact)
 
