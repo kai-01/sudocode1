@@ -1,2 +1,2 @@
-- she/her :)
+- she/her pronouns :)
 - mainly JS, but I try to help others as much as possible, even if I can't understand the language they're programming in :)
