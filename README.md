@@ -1,1 +1,2 @@
-bruh moment
+- she/her :)
+- JS, but I try to help others as much as possible :)
