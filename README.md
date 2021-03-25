@@ -14,4 +14,4 @@ For general information, look at my [website](http://sudocode1.tk)
 
 ## Contacts
 Discord: roux#0493 <br>
-Twitter: [@sudocode1](https://twitter.com/sudocode1_)
+Twitter: [@sudocode1_](https://twitter.com/sudocode1_)
